@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//rduque
 int main() {
     int populacao;
     float area;
